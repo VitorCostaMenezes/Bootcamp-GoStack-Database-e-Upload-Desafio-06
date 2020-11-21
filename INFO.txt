@@ -1,0 +1,6 @@
+criar uma migration
+  yarn typeorm migration:create -n nome_da_migration
+
+
+para rodar a migration
+yarn typeorm migration:run
