@@ -4,3 +4,4 @@ criar uma migration
 
 para rodar a migration
 yarn typeorm migration:run
+
